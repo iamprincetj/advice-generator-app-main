@@ -43,7 +43,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Here](https://github.com/iamprincetj/advice-generator-app-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Here](https://iamprincetj.github.io/advice-generator-app-main/)
 
 ## My process
 
